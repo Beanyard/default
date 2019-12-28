@@ -933,7 +933,7 @@
       "Price":100,
       "Blueprint":"Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant'"
 	},
-    "abtoad":{
+    "abbeelzebufo":{
       "Type":"dino",
       "Description":"Aberrant Beelzebufo",
       "Level":225,
@@ -1066,7 +1066,7 @@
       "Price":25,
       "Blueprint":"Blueprint'/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant'"
 	},
-    "abmegalo":{
+    "abmegalosaurus":{
       "Type":"dino",
       "Description":"Aberrant Megalosaurus",
       "Level":225,
@@ -1101,7 +1101,7 @@
       "Price":100,
       "Blueprint":"Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant'"
 	},
-    "abpara":{
+    "abparasaur":{
       "Type":"dino",
       "Description":"Aberrant Parasaur",
       "Level":225,
@@ -1262,7 +1262,7 @@
       "Price":25,
       "Blueprint":"Blueprint'/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP'"
 	},
-    "tekpara":{
+    "tekparasaur":{
       "Type":"dino",
       "Description":"Tek Parasaur",
       "Level":225,
@@ -1270,7 +1270,7 @@
 	  "Blueprint":
       "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP'"
 	},
-	"tekquetz":{
+	"tekquetzal":{
       "Type":"dino",
       "Description":"Tek Quetzalcoatlus",
       "Level":225,
@@ -1570,7 +1570,7 @@
         }
       ]
     },
-	"deinsaddle":{  
+	"deinonychussaddle":{  
       "Type":"item",
       "Description":"Deinonychus Saddle",
       "Price":25,
@@ -2116,7 +2116,7 @@
         }
       ]
     },
-	"quetzplatformsaddle":{  
+	"quetzalplatformsaddle":{  
       "Type":"item",
       "Description":"Quetzalcoatlus Platform Saddle",
       "Price":100,
@@ -2129,7 +2129,7 @@
         }
       ]
     },
-	"quetzsaddle":{  
+	"quetzalsaddle":{  
       "Type":"item",
       "Description":"Quetzalcoatlus Saddle",
       "Price":25,
@@ -2441,7 +2441,7 @@
         }
       ]
     },
-	"rhinosaddle":{  
+	"woollyrhinosaddle":{  
       "Type":"item",
       "Description":"Woolly Rhino Saddle",
       "Price":25,
@@ -2725,19 +2725,6 @@
           "ForceBlueprint":false,
           "Amount":1,
           "Blueprint":"Blueprint'/Game/Mods/StructuresPlusMod/Misc/ItemTranslocator/PrimalItemStructure_ItemTranslocator.PrimalItemStructure_ItemTranslocator'"
-        }
-      ]
-    },
-	"element":{
-      "Type":"item",
-      "Description":"50 Element",
-      "Price":50,
-      "Items":[
-        {
-          "Quality":10,
-          "ForceBlueprint":false,
-          "Amount":50,
-          "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C'"
         }
       ]
     },
@@ -4815,13 +4802,13 @@
     },
 	"metal":{  
       "Type":"item",
-      "Description":"10k Metal",
-      "Price":100,
+      "Description":"1k Metal",
+      "Price":50,
       "Items":[
         {
           "Quality":10,
           "ForceBlueprint":false,
-          "Amount":10000,
+          "Amount":1000,
           "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
         }
       ]
@@ -5123,7 +5110,7 @@
     },
 	"stone":{  
       "Type":"item",
-      "Description":"10k Stone",
+      "Description":"100k Stone",
       "Price":100,
       "Amount":100000,
       "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
@@ -5137,9 +5124,9 @@
     },
 	"metal":{  
       "Type":"item",
-      "Description":"10k Metal",
-      "Price":100,
-      "Amount":10000,
+      "Description":"1k Metal",
+      "Price":50,
+      "Amount":1000,
       "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
     },
 	"metalingot":{  
@@ -5148,13 +5135,6 @@
       "Price":100,
       "Amount":1000,
       "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'"
-    },
-	"cementingpaste":{  
-      "Type":"item",
-      "Description":"1k Cementing Paste",
-      "Price":100,
-      "Amount":10000,
-      "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
     },
 	"crystal":{  
       "Type":"item",
@@ -5207,9 +5187,9 @@
     },
 	"mutton":{  
       "Type":"item",
-      "Description":"100k Mutton",
+      "Description":"10k Mutton",
       "Price":100,
-      "Amount":100000,
+      "Amount":10000,
       "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'"
     },
 	"hide":{  
@@ -5256,9 +5236,9 @@
     },
 	"silicapearl":{  
       "Type":"item",
-      "Description":"1k Silica Pearl",
+      "Description":"10k Silica Pearl",
       "Price":100,
-      "Amount":1000,
+      "Amount":10000,
       "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
     },
 	"blackpearl":{  
