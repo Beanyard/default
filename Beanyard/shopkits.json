@@ -1,7 +1,7 @@
 //Chibi Config//
-"chibiscommon":{  
+"chibisherbivore":{  
       "Type":"item",
-      "Description":"All Common Chibis: Vanilla Land Animals",
+      "Description":"Plant Eating Land Chibis: ",
       "Price":5,
       "Items":[  
         {  
@@ -14,7 +14,7 @@
     },
 "chibisdlc":{  
       "Type":"item",
-      "Description":"Chibis that Require DLCs: Aberration, Scorched Earth, or Extinction.  Does not include Genesis Chibis.",
+      "Description":"Chibis Require DLCs: Aberration, Scorched Earth, or Extinction.  Does not include Genesis Chibis.",
       "Price":5,
       "Items":[  
         {  
@@ -27,7 +27,7 @@
     },
 "chibisrare":{  
       "Type":"item",
-      "Description":"Genesis, Flyers,and the Pair-o-Sairs chibi.",
+      "Description":"Genesis, Gigas, Flyers (Argent, Griffin, Pteranadon, Quetzal, Tapejara, Titanosaur, and the Pair-o-Sairs chibi.",
       "Price":5,
       "Items":[  
         {  
@@ -38,9 +38,9 @@
         }
       ]
     },
- "chibisuncommon":{  
+ "chibiscarnivore":{  
       "Type":"item",
-      "Description":"Chibi Allosaurus",
+      "Description":"Carnivorous chibis: Allo, Bary, Carno, Pig, Wolf, Bear, Megalania, Raptor, Rex, Sarco, Spino, Terror Bird, Thylacoleo, Troodon, and Yutyrannus.",
       "Price":5,
       "Items":[  
         {  
