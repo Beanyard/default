@@ -1,0 +1,72 @@
+//Chibi Config//
+"chibiscommon":{  
+      "Type":"item",
+      "Description":"All Common Chibis: Vanilla Land Animals",
+      "Price":5,
+      "Items":[  
+        {  
+          "Amount":1,
+          "Quality":5,
+          "ForceBlueprint":false,
+      "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Allosaurus.PrimalItemSkin_ChibiDino_Allosaurus'"
+        }
+      ]
+    },
+"chibisdlc":{  
+      "Type":"item",
+      "Description":"Chibis that Require DLCs: Aberration, Scorched Earth, or Extinction.  Does not include Genesis Chibis.",
+      "Price":5,
+      "Items":[  
+        {  
+          "Amount":1,
+          "Quality":5,
+          "ForceBlueprint":false,
+      "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Allosaurus.PrimalItemSkin_ChibiDino_Allosaurus'"
+        }
+      ]
+    },
+"chibisrare":{  
+      "Type":"item",
+      "Description":"Genesis, Flyers,and the Pair-o-Sairs chibi.",
+      "Price":5,
+      "Items":[  
+        {  
+          "Amount":1,
+          "Quality":5,
+          "ForceBlueprint":false,
+      "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Allosaurus.PrimalItemSkin_ChibiDino_Allosaurus'"
+        }
+      ]
+    },
+ "chibisuncommon":{  
+      "Type":"item",
+      "Description":"Chibi Allosaurus",
+      "Price":5,
+      "Items":[  
+        {  
+          "Amount":1,
+          "Quality":5,
+          "ForceBlueprint":false,
+      "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/ChibiDinos/PrimalItemSkin_ChibiDino_Allosaurus.PrimalItemSkin_ChibiDino_Allosaurus'"
+        }
+      ]
+    }
+    
+//Skins and Costumes//    
++Aberration Skins
++Scorched Earth Skins
++Island Skins
++Extinction Skins
++Dino Costumes & Saddle Skins
++Event Skins
+++Easter
+++Halloween
+++Thanksgiving
+++4th of July
+++Valentines
+++Christmas
+
+//Utility Kits//
++Seed & Fertilizer Kit
++Dye Kit
++
